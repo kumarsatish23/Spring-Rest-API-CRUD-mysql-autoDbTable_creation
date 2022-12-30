@@ -1,8 +1,8 @@
 spring :
   datasource:
-    username: admin
-    password: pass1433
-    url: jdbc:mysql://database-1.cfjnkdumoano.ap-south-1.rds.amazonaws.com:3306/sbms?createDatabaseIfNotExist=true
+    username: root
+    password: 8008
+    url: jdbc:mysql://localhost:3306/sbms?createDatabaseIfNotExist=true
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
