@@ -18,3 +18,4 @@ auto table creation
 
 swagger
 
+HomePage:localhost:8080/swagger-ui
